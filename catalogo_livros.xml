@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalogo>
+    <livro>
+        <titulo>Algoritmos: Teoria e Prática</titulo>
+        <autor>Thomas H. Cormen</autor>
+        <ano>2009</ano>
+        <isbn>9788577803955</isbn>
+        <categoria>Tecnologia</categoria>
+    </livro>
+
+    <livro>
+        <titulo>Gestão de Projetos</titulo>
+        <autor>Ricardo Vargas</autor>
+        <ano>2016</ano>
+        <isbn>9788574523702</isbn>
+        <categoria>Gestão</categoria>
+    </livro>
+
+    <livro>
+        <titulo>Mecânica dos Materiais</titulo>
+        <autor>R. C. Hibbeler</autor>
+        <ano>2015</ano>
+        <isbn>9788543004791</isbn>
+        <categoria>Engenharia</categoria>
+    </livro>
+
+    <livro>
+        <titulo>Banco de Dados: Projeto e Implementação</titulo>
+        <autor>Carlos A. Heuser</autor>
+        <ano>2020</ano>
+        <isbn>9788582604151</isbn>
+        <categoria>Tecnologia</categoria>
+    </livro>
+    
+    <livro>
+    <titulo>Engenharia de Software</titulo>
+    <autor>Ian Sommerville</autor>
+    <ano>2011</ano>
+    <isbn>9788534618695</isbn>
+    <categoria>Engenharia</categoria>
+</livro>
+
+</catalogo>
